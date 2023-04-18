@@ -1,6 +1,6 @@
 # The Sparks Foundation : Data Science and Business analytics Internship (GRIP)
 
-● Task-1-Prediction-using-Supervised-Learning
+🎯 Task-1-Prediction-using-Supervised-Learning
 Here I have created the prediction using simple linear regression where I have predicted the marks of a student based on the number of study hours of that student.
 
 Predict the percentage of an student based on the no. of study hours.
