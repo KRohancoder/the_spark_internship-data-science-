@@ -14,7 +14,7 @@ Predict the percentage of an student based on the no. of study hours.
 ● What will be predicted score if a student studies for 9.25 hrs/ day?
 
 
-● Task-2-Prediction-using-Unsupervised-ML
+ 🎯 Task-2-Prediction-using-Unsupervised-ML
 Here I have created the prediction model using the Unsupervised ML and I have predicted the model using the K means Clustering
 
 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
@@ -23,7 +23,7 @@ From the given ‘Iris’ dataset, predict the optimum number of clusters and re
 
 ● Dataset : https://bit.ly/3kXTdox
 
-● Task-3-Exploratory-Data-Analysis-Retail
+🎯 Task-3-Exploratory-Data-Analysis-Retail
 Here I have created the analysis model of a Super market datasheet given by the company and have deployed the parameters successfully.
 
 Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
@@ -37,7 +37,7 @@ Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 ● Dataset: https://bit.ly/3i4rbWl
 
 
-● Task-4-Exploratory-Data-Analysis-Terrorism
+🎯 Task-4-Exploratory-Data-Analysis-Terrorism
 Here in this project I have analysed the huge dataset of Terrorism where all the details are being provided
 
 Exploratory Data Analysis - Terrorism
@@ -56,7 +56,7 @@ Exploratory Data Analysis - Terrorism
 
 ● Dataset: https://bit.ly/2TK5Xn5
 
-●Task 5 - Prediction-using-Decision-Tree-Algorithm
+🎯 Task 5 - Prediction-using-Decision-Tree-Algorithm
 Prediction using Decision Tree Algorithm of the iris dataset
 
 ● Create the Decision Tree classifier and visualize it graphically.
@@ -65,7 +65,7 @@ Prediction using Decision Tree Algorithm of the iris dataset
 
 ● Dataset : https://bit.ly/3kXTdox
 
-●Task-6-Stock-Market-Prediction
+🎯 Task-6-Stock-Market-Prediction
 Here I have created the model of Stock Market Prediction using the TensorFlow Modelling
 
 Objective: Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines
